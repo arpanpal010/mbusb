@@ -1,0 +1,13 @@
+#ignoring .iso images and their signatures
+*.iso
+*.bin
+
+*.md5
+*.sha1sum
+*.sig
+
+#ignoring dir /xtra/ - contains scraps/snippets
+xtra/
+
+#ignoring file issues.txt
+issues.txt
