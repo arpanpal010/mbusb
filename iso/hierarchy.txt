@@ -14,6 +14,8 @@
 ./linux/slacko-5.7-NO-pae_x86.iso
 ./linux/slacko-5.7.0-PAE_x64.iso
 ./linux/grml96-full_2014.03.iso
+./linux/zentyal-3.4-amd64.iso
+./linux/zentyal-3.4-i386.iso
 ./linux/archlinux-2014.06.01-dual.iso
 ./linux/CentOS-6.5-x86_64-LiveCD.iso
 ./linux/mint
