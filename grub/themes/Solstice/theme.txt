@@ -1,0 +1,50 @@
+# GRUB2 gfxmenu Solstice theme.
+# Designed for any resolution.
+# Created by Legendary Bibo
+
+# Global Property
+title-text: ""
+title-font: "Aliquam 16"
+title-color: "#333333"
+
+message-font: "Fixed Regular 13"
+message-color: "#333333"
+message-bg-color: "#f2f2f2"
+
+desktop-image: "rainyday.jpg"
+desktop-color: "#f5f5f5"
+
+terminal-box: "term_bkg_*.png"
+terminal-font: "Fixed Regular 13"
+
+# Show the boot menu
++ boot_menu {
+		left = 0
+		width = 50%
+		top = 0
+		height = 100%
+		item_font = "Aliquam 16"
+		selected_item_font = "Aliquam 16"
+		item_color = "#f5f5f5"
+		selected_item_color = "#333333"
+		item_height = 56
+		item_padding = 0
+		item_spacing = 20
+		icon_width = 48
+		icon_height = 48
+		item_icon_space = 20
+		selected_item_pixmap_style= "select_bkg_*.png"
+		menu_pixmap_style = "menu_bkg_*.png"
+		scrollbar = false
+		scrollbar_width = 17
+		scrollbar_thumb = "sb_thumb_*.png"
+		scrollbar_frame = "sb_frame_*.png"
+}
+
++ image {
+		top = 50%-226
+		left = 100%-315
+		width = 315
+		height = 452
+		file = "info.png"
+}
