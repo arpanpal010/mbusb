@@ -7,19 +7,20 @@ multiboot usb mainly for distro hopping and easy installations, but contains lin
   * Android 4.4 RC2
 
 * Linux
-  * Arch Linux
-  * GRML
-  * Kali Linux
-  * Linux Mint
-  * Puppy Slacko
-  * Tails liveCD
+  * Arch Linux 2014.07.03
+  * Fedora 20-1
+  * GRML 2014.03
+  * Kali Linux 1.0.7
+  * Linux Mint 17 Quiana
+  * Puppy Slacko 5.7
+  * Tails liveCD 1.0.1
 
 * Tools
-  * SystemRescueCD
-  * GParted Live
-  * Clonezilla
-  * Memtest86+
-  * DBAN
+  * SystemRescueCD x86 4.2.0
+  * GParted Live 0.18.0-2
+  * Clonezilla Live 20140331
+  * Memtest86+ 5.01
+  * DBAN 2.2.8
 
 Description
 ------------
