@@ -51,7 +51,7 @@ sudo mkdir /mnt/boot
 ```
 Now to install the bootloader,i.e grub2, enter (be sure to write **/dev/sdb** as we're installing grub in the drive, not the partition)
 ```
-sudo grub-install --boot-directory=/mnt/boot /dev/sdb
+sudo grub-install --no-floppy --boot-directory=/mnt/boot /dev/sdb
 ```
 Now you can unmount /mnt with
 ```
